@@ -1,0 +1,44 @@
+@import url(../style.css);
+
+.principal_titulo{
+    font-size: 32px;
+}
+
+.principal_paragrafo{
+    margin-top: .5em;
+    margin-bottom: 2.5em;
+}
+
+.principal_figure{
+    display: flex;
+}
+.principal_img{
+    position: relative;
+    right: 30px;
+}
+
+.principal_figcaption{
+    margin-left: 5.5em;
+    margin-top: 5.5em;
+}
+
+.figcaption_titulo{
+    font-family: var(--fonte);
+    font-size: 22px;
+    margin-bottom: .5em;
+   
+}
+
+.figcaprion_p{
+    font-size: 15px;
+    margin-bottom: 3.5em;
+}
+
+.principal_titulo--secundario{
+    margin-top: 1.5em;
+}
+
+.principal_figure--secundaria{
+    display: flex;
+    justify-content: center;
+}

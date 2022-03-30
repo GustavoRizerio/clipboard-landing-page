@@ -1,0 +1,37 @@
+.article{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 5.5em;
+
+    align-items: center;
+}
+
+.google{
+    width: 165px;
+    height: 49px;
+}
+
+.hp{
+    width: 135px;
+    height: 56px;
+}
+
+.ibm{
+    width: 139px;
+    height: 51px;
+}
+
+.microsoft{
+    width: 161px;
+    height: 35px;
+}
+
+
+.vector{
+    width: 125px;
+    height: 30px;
+}
+
+.article_titulo{
+    margin-top: 2.3em;
+}

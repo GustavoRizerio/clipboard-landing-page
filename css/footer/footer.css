@@ -1,0 +1,12 @@
+@import url(../style.css);
+
+.footer{
+    background-color: rgb(214, 214, 214);
+    height: 100px;
+}
+
+.footer_img{
+    width: 60px;
+
+    margin: 1.5em 6.5em 0 40.5em;
+}

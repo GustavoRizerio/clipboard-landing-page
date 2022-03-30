@@ -1,0 +1,42 @@
+.section_figure {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.A{
+    margin-left: 3.5em;
+}
+
+.eye{
+  position: relative;
+  left: 4.2rem;
+}
+.sneak{
+    position: relative;
+  left: 2.5rem;
+}
+.div_figcaption{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.section_figure--img{
+    height: 50px;
+}
+
+.div_p{
+    text-align: center;
+    
+}
+
+.div_h5{
+    font-size: 20px;
+}
+
+.create{
+    margin-bottom: 1.5em;
+}
+
+.ensure{
+    margin-left: 3.5em;
+}
